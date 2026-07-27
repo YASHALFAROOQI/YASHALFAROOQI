@@ -33,16 +33,6 @@ Defensive tooling →  Firewall rule management, security scanners, config audit
 | **[Firewall Manager](https://github.com/YASHALFAROOQI/firewall-manager)** | Actually creates/manages real Windows Firewall rules via netsh — not a simulator | Python, Flask |
 | **[CipherSuite](https://github.com/YASHALFAROOQI/ciper-suite)** | Multi-algorithm cipher suite — classical (Caesar, Vigenère) vs. modern (AES-256-GCM, RSA-2048-OAEP), side by side | Python, Flask |
 
-*(Replace the `#` links above with your actual repo URLs once pushed.)*
 
 
 
-### 📫 Reach me
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <!-- Add LinkedIn / email badges here once you have the links -->
-</p>
-
----
-<p align="center"><sub>Every tool above is tested before it's called done — round-trip crypto verification, real OS-level enforcement checks, and honest documentation of what each tool can and can't detect.</sub></p>
