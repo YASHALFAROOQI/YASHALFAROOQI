@@ -1,27 +1,12 @@
-<h1 align="center">Hi, I'm Yashal 👋</h1>
-<p align="center">
-  <b>Cybersecurity </b> — building detection, encryption, and defensive security tools
-</p>
+<h1 align="center">Hi, I'm Yashal 👋</h1> <p align="center"> <b>Cybersecurity Engineer</b> — building detection, encryption, and defensive security systems </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-Intrusion%20Detection-F7931E?style=flat-square" /> <img src="https://img.shields.io/badge/Cryptography-AES--256%20%7C%20RSA-2E5E4E?style=flat-square" /> <img src="https://img.shields.io/badge/Focus-Applied%20Security-A6332C?style=flat-square" /> </p>
+🔍 What I build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-AES--256%20%7C%20RSA-2E5E4E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Applied%20Security-A6332C?style=flat-square" />
-</p>
+Security tools that make real decisions on real data — not demos that just look the part. Live traffic gets classified by an actual ML pipeline. Encrypted files actually detect tampering. Firewall rules actually get enforced by the OS. If a tool claims to defend something, it defends it for real.
 
----
+Detection        →  ML-based intrusion detection on live network traffic
+Cryptography      →  AES-256-GCM, RSA-2048-OAEP — real authenticated encryption
+Defensive tooling →  OS-level firewall enforcement, cloud misconfiguration auditing
 
-### 🔍 What I build
-
-I focus on tools that sit at the intersection of **security, detection, and machine learning** — not just demos, but systems that make real decisions on real data: intrusion detection on live network traffic, authenticated encryption, and defensive tooling that actually enforces what it claims to.
-
-```
-Detection        →  ML-based network intrusion detection (hybrid RF + Isolation Forest)
-Cryptography      →  AES-256-GCM, RSA-2048-OAEP, real authenticated encryption
-Defensive tooling →  Firewall rule management, security scanners, config auditors
-```
 
 ### 🧰 Featured Projects
 
