@@ -7,7 +7,6 @@ Detection        →  ML-based intrusion detection on live network traffic
 Cryptography      →  AES-256-GCM, RSA-2048-OAEP — real authenticated encryption
 Defensive tooling →  OS-level firewall enforcement, cloud misconfiguration auditing
 
-
 ### 🧰 Featured Projects
 
 | Project | What it does | Stack |
