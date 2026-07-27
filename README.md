@@ -111,14 +111,5 @@ Implements the real CVSS v3.1 base score formula for rating and prioritizing vul
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A6332C,100:1C1D18&height=100&section=footer" width="100%"/>
-| Project | What it does | Stack |
-|---|---|---|
-| **[AI-Based Web IDS](https://github.com/YASHALFAROOQI/Realtime-IDS)** | Real-time intrusion detection dashboard — sniffs live traffic, hybrid ML classification (known attacks + zero-day anomalies), regex-based web attack signatures (SQLi/XSS), live alert streaming | Python, Scapy, scikit-learn, Flask-SocketIO |
-| **[Sentrix](https://github.com/YASHALFAROOQI/Sentrix-cloud-misconfiguration-detector)** | Cloud misconfiguration scanner — analyzes AWS/Azure/GCP configs via LLM (Gemini), returns severity-ranked findings and exportable reports | Node.js, Express, Gemini API |
-| **[Secure File Encryption](https://github.com/YASHALFAROOQI/secure-file-encryption)** | Real authenticated file encryption — AES-256-GCM + scrypt, detects tampering, not just confidentiality | Python, Flask, pycryptodome |
-| **[Firewall Manager](https://github.com/YASHALFAROOQI/firewall-manager)** | Actually creates/manages real Windows Firewall rules via netsh — not a simulator | Python, Flask |
-| **[CipherSuite](https://github.com/YASHALFAROOQI/ciper-suite)** | Multi-algorithm cipher suite — classical (Caesar, Vigenère) vs. modern (AES-256-GCM, RSA-2048-OAEP), side by side | Python, Flask |
-
-
 
 
