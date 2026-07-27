@@ -25,9 +25,13 @@ $ whoami
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs,sklearn,linux,git,github,vscode&theme=dark" />
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1D18,100:A6332C&height=3&width=100%"/>
 
-## 🗂 Case Files
+<div align="center">
+<h2>🗂 Case Files</h2>
+<sub>Eight tools, three disciplines — detection, cryptography, defensive enforcement.</sub>
+</div>
+<br>
 
 <table>
 <tr>
@@ -38,7 +42,7 @@ $ whoami
 
 Audits AWS / Azure / GCP configs, explains findings in plain language, ships a built-in AI assistant for remediation guidance.
 
-`Node.js` `Express` `Gemini API`
+![](https://img.shields.io/badge/-Node.js-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Express-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Gemini%20API-A6332C?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -48,7 +52,7 @@ Audits AWS / Azure / GCP configs, explains findings in plain language, ships a b
 
 Random Forest catches known attacks. Isolation Forest catches zero-days. Alerts stream to a dashboard as traffic is sniffed off the wire.
 
-`Python` `Scapy` `scikit-learn`
+![](https://img.shields.io/badge/-Python-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Scapy-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-scikit--learn-A6332C?style=flat-square)
 
 </td>
 </tr>
@@ -60,7 +64,7 @@ Random Forest catches known attacks. Isolation Forest catches zero-days. Alerts 
 
 Creates and enforces live rules in Windows Defender Firewall — rules made here actually block traffic, not just log a hypothetical.
 
-`Python` `Flask` `netsh`
+![](https://img.shields.io/badge/-Python-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Flask-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-netsh-9C6B1F?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -70,11 +74,21 @@ Creates and enforces live rules in Windows Defender Firewall — rules made here
 
 AES-256-GCM — a tampered or corrupted file fails to decrypt instead of silently returning garbage.
 
-`Python` `pycryptodome` `scrypt`
+![](https://img.shields.io/badge/-Python-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-pycryptodome-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-scrypt-2E5E4E?style=flat-square)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🧬 [Cipher Suite](https://github.com/YASHALFAROOQI/ciper-suite)
+**Block vs. stream, side by side**
+
+Real AES-256-CBC, 3DES-CBC, DES-CBC, and RC4 — a working comparison of modern and legacy symmetric algorithms.
+
+![](https://img.shields.io/badge/-Python-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-pycryptodome-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-AES%2FDES%2FRC4-2E5E4E?style=flat-square)
+
+</td>
 <td width="50%" valign="top">
 
 ### 📊 [CVSS Calculator](https://github.com/YASHALFAROOQI/CVSS-CALCULATOR)
@@ -82,20 +96,39 @@ AES-256-GCM — a tampered or corrupted file fails to decrypt instead of silentl
 
 Implements the real CVSS v3.1 base score formula for rating and prioritizing vulnerabilities by severity.
 
-`Python` `Flask`
+![](https://img.shields.io/badge/-Python-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Flask-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-CVSS%20v3.1-9C6B1F?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔑 [Password Strength Checker](https://github.com/YASHALFAROOQI/password-strength-checker)
+**Entropy, not guesswork**
+
+Calculates real entropy, checks against a common-password list, and estimates offline crack time — server-side, nothing logged.
+
+![](https://img.shields.io/badge/-Python-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Flask-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Entropy%20Analysis-2E5E4E?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-<br>
+### 🏛️ [Caesar Cipher](https://github.com/YASHALFAROOQI/ceaser-cipher-encryption-decryption)
+**The classical baseline**
+
+Encode, decode, and brute-force all 25 shifts — included as a teaching baseline for symmetric cipher concepts, not real confidentiality.
+
+![](https://img.shields.io/badge/-Python-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Flask-1C1D18?style=flat-square) ![](https://img.shields.io/badge/-Classical%20Cipher-9C6B1F?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C1D18,100:A6332C&height=3&width=100%"/>
 
-## 📈 Activity
+<div align="center">
+<h2>📈 Activity</h2>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YASHALFAROOQI&show_icons=true&theme=transparent&hide_border=true&title_color=A6332C&icon_color=2E5E4E&text_color=1C1D18" height="165"/>
@@ -105,11 +138,7 @@ Implements the real CVSS v3.1 base score formula for rating and prioritizing vul
 <br>
 
 <div align="center">
-
 <sub>Every project above is tested before it's called done — round-trip crypto verification, real OS-level enforcement checks, honest documentation of what each tool can and can't catch.</sub>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A6332C,100:1C1D18&height=100&section=footer" width="100%"/>
-
-
