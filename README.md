@@ -36,8 +36,6 @@ $ whoami
 $ cat currently.txt
 > learning: memory forensics, cloud security, adversarial ML
 > building: hybrid ML intrusion detection system
-> certified: ISO/IEC 27001:2022 Info Security Associate
-> open to: cybersecurity internships & research
 ```
 
 <div align="center">
