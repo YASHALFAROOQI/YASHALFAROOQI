@@ -28,27 +28,26 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF9C&height=3&width=100%"/>
 </div>
 
-<h2>👋 about.me</h2>
+```
+$ whoami
+> BS Cybersecurity & Digital Forensics — The Islamia University of Bahawalpur
+> researching deepfake detection & fileless malware forensics
+> Vice Chairperson, IEEE Women in Engineering Society
 
-BS Cybersecurity & Digital Forensics student at The Islamia University of Bahawalpur. I like taking security concepts most people only read about and actually building them — real encryption, real detection pipelines, real enforcement — to see how they hold up in practice, not just on paper. Currently splitting time between coursework, two research papers in progress (deepfake detection, fileless malware forensics), and IEEE Women in Engineering leadership.
-
-<pre>
-<code>
 $ cat currently.txt
-&gt; learning: memory forensics, cloud security, adversarial ML
-&gt; building: a hybrid ML intrusion detection system
-&gt; certified in: ISO/IEC 27001:2022 Information Security Associate
-&gt; open to: cybersecurity internships & research collaboration
-</code>
-</pre>
+> learning:    memory forensics, cloud security, adversarial ML
+> building:    hybrid ML-based intrusion detection system
+> certified:   ISO/IEC 27001:2022 Information Security Associate
+> open to:     cybersecurity internships & research collaboration
+```
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
 </div>
 
 <div align="center">
-<h2>🗂️ case_files/</h2>
-<sub>eight modules // three disciplines // detection · cryptography · enforcement</sub>
+<h2>🗂️ Case Files</h2>
+<sub>Eight tools, three disciplines — detection, cryptography, defensive enforcement.</sub>
 </div>
 <br>
 
@@ -156,7 +155,7 @@ Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not
 </div>
 
 <div align="center">
-<h2>📊 stats.log</h2>
+<h2>📊 Stats</h2>
 </div>
 
 <div align="center">
@@ -171,7 +170,7 @@ Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not
 <br>
 
 <div align="center">
-<h2>🤝 connect</h2>
+<h2>Connect</h2>
 <a href="https://linkedin.com/in/yashal-farooqi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
 <a href="mailto:ayashal456@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
 </div>
@@ -179,7 +178,7 @@ Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not
 <br>
 
 <div align="center">
-<sub>&gt; every module above is tested before it's called done — nothing here claims more than what it actually does_</sub>
+<sub>Every module above is tested before it's called done — nothing here claims more than what it actually does.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=100&section=footer" width="100%"/>
