@@ -30,15 +30,14 @@
 
 ```
 $ whoami
-> BS Cybersecurity & Digital Forensics — The Islamia University of Bahawalpur
-> researching deepfake detection & fileless malware forensics
-> Vice Chairperson, IEEE Women in Engineering Society
+> BS Cybersecurity & Digital Forensics
+> The Islamia University of Bahawalpur
 
 $ cat currently.txt
-> learning:    memory forensics, cloud security, adversarial ML
-> building:    hybrid ML-based intrusion detection system
-> certified:   ISO/IEC 27001:2022 Information Security Associate
-> open to:     cybersecurity internships & research collaboration
+> learning: memory forensics, cloud security, adversarial ML
+> building: hybrid ML intrusion detection system
+> certified: ISO/IEC 27001:2022 Info Security Associate
+> open to: cybersecurity internships & research
 ```
 
 <div align="center">
@@ -49,125 +48,42 @@ $ cat currently.txt
 <h2>🗂️ Case Files</h2>
 <sub>Eight tools, three disciplines — detection, cryptography, defensive enforcement.</sub>
 </div>
-<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```
-> module_01
-```
 ### 🛰️ [Sentrix](https://github.com/YASHALFAROOQI/Sentrix-cloud-misconfiguration-detector)
-AI-powered cloud misconfiguration scanner. Audits AWS/Azure/GCP configs, explains findings in plain language, ships a built-in AI remediation assistant.
-
+AI-powered cloud misconfiguration scanner — audits AWS/Azure/GCP configs, explains findings in plain language, ships a built-in AI remediation assistant.
 `node.js` `express` `gemini-api`
 
-</td>
-<td width="50%" valign="top">
-
-```
-> module_02
-```
 ### 📡 [Realtime-IDS](https://github.com/YASHALFAROOQI/Realtime-IDS)
-Hybrid ML intrusion detection. Random Forest catches known attacks, Isolation Forest catches zero-day anomalies, alerts stream live as traffic is sniffed.
-
+Hybrid ML intrusion detection — Random Forest catches known attacks, Isolation Forest catches zero-day anomalies, alerts stream live as traffic is sniffed.
 `python` `scapy` `scikit-learn`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-> module_03
-```
 ### 🔥 [Firewall Manager](https://github.com/YASHALFAROOQI/firewall-manager)
 Real rule enforcement in Windows Defender Firewall via netsh — not a simulator, actually blocks traffic.
-
 `python` `flask` `netsh`
 
-</td>
-<td width="50%" valign="top">
-
-```
-> module_04
-```
 ### 🔐 [Secure File Encryption](https://github.com/YASHALFAROOQI/secure-file-encryption)
-AES-256-GCM authenticated encryption. A tampered or corrupted file fails to decrypt instead of silently returning garbage.
-
+AES-256-GCM authenticated encryption — a tampered or corrupted file fails to decrypt instead of silently returning garbage.
 `python` `pycryptodome` `scrypt`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-> module_05
-```
 ### 🧬 [Cipher Suite](https://github.com/YASHALFAROOQI/ciper-suite)
 Real AES-256-CBC, 3DES-CBC, DES-CBC, and RC4 — comparing block and stream ciphers side by side.
-
 `python` `pycryptodome`
 
-</td>
-<td width="50%" valign="top">
-
-```
-> module_06
-```
 ### 📊 [CVSS Calculator](https://github.com/YASHALFAROOQI/CVSS-CALCULATOR)
 Implements the real CVSS v3.1 base score formula for rating vulnerability severity — not an approximation.
-
 `python` `flask`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-> module_07
-```
 ### 🔑 [Password Strength Checker](https://github.com/YASHALFAROOQI/password-strength-checker)
 Real entropy calculation, common-password check, and offline crack-time estimate.
-
 `python` `flask`
 
-</td>
-<td width="50%" valign="top">
-
-```
-> module_08
-```
 ### 🏛️ [Caesar Cipher](https://github.com/YASHALFAROOQI/ceaser-cipher-encryption-decryption)
 Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not real confidentiality.
-
 `python` `flask`
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
 </div>
-
-<div align="center">
-<h2>📊 Stats</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASHALFAROOQI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHALFAROOQI&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YASHALFAROOQI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
-</div>
-
-<br>
 
 <div align="center">
 <h2>Connect</h2>
@@ -178,7 +94,7 @@ Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not
 <br>
 
 <div align="center">
-<sub>Every module above is tested before it's called done — nothing here claims more than what it actually does.</sub>
+<sub>Every tool above is tested before it's called done — nothing here claims more than what it actually does.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=100&section=footer" width="100%"/>
