@@ -32,10 +32,12 @@
 $ whoami
 > BS Cybersecurity & Digital Forensics
 > The Islamia University of Bahawalpur
+> turning security concepts into things that actually run
 
-$ cat currently.txt
-> learning: memory forensics, cloud security, adversarial ML
-> building: hybrid ML intrusion detection system
+$ cat interests.txt
+> focus:      intrusion detection, applied cryptography, cloud security
+> exploring:  memory forensics, adversarial ML, deepfake detection
+> approach:   build it for real, test it before calling it done
 ```
 
 <div align="center">
