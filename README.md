@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=cybersecurity+engineer;detection+systems+%2B+applied+cryptography;defensive+tooling+that+actually+enforces;if+it+claims+to+defend+something%2C+it+defends+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=cybersecurity+%26+digital+forensics+student;building+detection%2C+cryptography%2C+and+defensive+tools;still+learning+%E2%80%94+one+real+project+at+a+time" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-000000?style=for-the-badge&logoColor=00FF9C&color=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-000000?style=for-the-badge&logoColor=00FF9C&labelColor=000000" />
   <img src="https://img.shields.io/badge/CRYPTOGRAPHY-000000?style=for-the-badge&logoColor=00FF9C" />
 </p>
 
@@ -24,21 +24,27 @@
 </div>
 
 <br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF9C&height=3&width=100%"/>
 </div>
 
-<pre align="center">
+<h2>👋 about.me</h2>
+
+BS Cybersecurity & Digital Forensics student at The Islamia University of Bahawalpur. I like taking security concepts most people only read about and actually building them — real encryption, real detection pipelines, real enforcement — to see how they hold up in practice, not just on paper. Currently splitting time between coursework, two research papers in progress (deepfake detection, fileless malware forensics), and IEEE Women in Engineering leadership.
+
+<pre>
 <code>
-$ cat mission.txt
-&gt; build security tools that make real decisions on real data
-&gt; live traffic gets classified by an actual ML pipeline
-&gt; encrypted files actually detect tampering
-&gt; firewall rules actually get enforced by the OS
-&gt; no demos. no simulations pretending to be the real thing.
+$ cat currently.txt
+&gt; learning: memory forensics, cloud security, adversarial ML
+&gt; building: a hybrid ML intrusion detection system
+&gt; certified in: ISO/IEC 27001:2022 Information Security Associate
+&gt; open to: cybersecurity internships & research collaboration
 </code>
 </pre>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
+</div>
 
 <div align="center">
 <h2>🗂️ case_files/</h2>
@@ -65,7 +71,7 @@ AI-powered cloud misconfiguration scanner. Audits AWS/Azure/GCP configs, explain
 > module_02
 ```
 ### 📡 [Realtime-IDS](https://github.com/YASHALFAROOQI/Realtime-IDS)
-Hybrid ML intrusion detection, live. Random Forest catches known attacks. Isolation Forest catches zero-days. Alerts stream as traffic is sniffed off the wire.
+Hybrid ML intrusion detection. Random Forest catches known attacks, Isolation Forest catches zero-day anomalies, alerts stream live as traffic is sniffed.
 
 `python` `scapy` `scikit-learn`
 
@@ -78,7 +84,7 @@ Hybrid ML intrusion detection, live. Random Forest catches known attacks. Isolat
 > module_03
 ```
 ### 🔥 [Firewall Manager](https://github.com/YASHALFAROOQI/firewall-manager)
-Real enforcement, not a simulation. Creates and enforces live rules in Windows Defender Firewall — actually blocks traffic.
+Real rule enforcement in Windows Defender Firewall via netsh — not a simulator, actually blocks traffic.
 
 `python` `flask` `netsh`
 
@@ -102,7 +108,7 @@ AES-256-GCM authenticated encryption. A tampered or corrupted file fails to decr
 > module_05
 ```
 ### 🧬 [Cipher Suite](https://github.com/YASHALFAROOQI/ciper-suite)
-Block vs. stream, side by side. Real AES-256-CBC, 3DES-CBC, DES-CBC, and RC4 implementations.
+Real AES-256-CBC, 3DES-CBC, DES-CBC, and RC4 — comparing block and stream ciphers side by side.
 
 `python` `pycryptodome`
 
@@ -113,7 +119,7 @@ Block vs. stream, side by side. Real AES-256-CBC, 3DES-CBC, DES-CBC, and RC4 imp
 > module_06
 ```
 ### 📊 [CVSS Calculator](https://github.com/YASHALFAROOQI/CVSS-CALCULATOR)
-Official FIRST.org scoring, not an approximation. Real CVSS v3.1 base score formula for vulnerability severity.
+Implements the real CVSS v3.1 base score formula for rating vulnerability severity — not an approximation.
 
 `python` `flask`
 
@@ -126,7 +132,7 @@ Official FIRST.org scoring, not an approximation. Real CVSS v3.1 base score form
 > module_07
 ```
 ### 🔑 [Password Strength Checker](https://github.com/YASHALFAROOQI/password-strength-checker)
-Entropy, not guesswork. Real entropy calculation, common-password check, offline crack-time estimate.
+Real entropy calculation, common-password check, and offline crack-time estimate.
 
 `python` `flask`
 
@@ -137,7 +143,7 @@ Entropy, not guesswork. Real entropy calculation, common-password check, offline
 > module_08
 ```
 ### 🏛️ [Caesar Cipher](https://github.com/YASHALFAROOQI/ceaser-cipher-encryption-decryption)
-The classical baseline. Encode, decode, brute-force all 25 shifts — a teaching baseline, not real confidentiality.
+Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not real confidentiality.
 
 `python` `flask`
 
@@ -159,21 +165,21 @@ The classical baseline. Encode, decode, brute-force all 25 shifts — a teaching
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHALFAROOQI&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
-</div>
-
-<br>
-
-<!-- 🐍 Contribution snake — add the workflow below to your profile repo (.github/workflows/snake.yml)
-     to generate this automatically each day. See setup note beneath this README section. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YASHALFAROOQI/YASHALFAROOQI/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=YASHALFAROOQI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
 </div>
 
 <br>
 
 <div align="center">
-<sub>&gt; every module above is tested before it's called done — round-trip crypto verification, real OS-level enforcement checks, honest documentation of what each tool can and can't catch_</sub>
+<h2>🤝 connect</h2>
+<a href="https://linkedin.com/in/yashal-farooqi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
+<a href="mailto:ayashal456@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
+</div>
+
+<br>
+
+<div align="center">
+<sub>&gt; every module above is tested before it's called done — nothing here claims more than what it actually does_</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=100&section=footer" width="100%"/>
