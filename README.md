@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=cybersecurity+%26+digital+forensics+student;building+detection%2C+cryptography%2C+and+defensive+tools;still+learning+%E2%80%94+one+real+project+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=cybersecurity+%26+digital+forensics+student;building+skills+across+detection%2C+crypto%2C+forensics;through+projects%2C+internships%2C+and+research" alt="Typing SVG" />
 </a>
 
 </div>
@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-000000?style=for-the-badge&logoColor=00FF9C&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DIGITAL_FORENSICS-000000?style=for-the-badge&logoColor=00FF9C&labelColor=000000" />
   <img src="https://img.shields.io/badge/CRYPTOGRAPHY-000000?style=for-the-badge&logoColor=00FF9C" />
 </p>
 
@@ -32,10 +32,9 @@
 $ whoami
 > BS Cybersecurity & Digital Forensics
 > The Islamia University of Bahawalpur
-> turning security concepts into things that actually run
 
 $ cat interests.txt
-> focus:      intrusion detection, applied cryptography, cloud security
+> focus:      intrusion detection, applied cryptography, digital forensics
 > exploring:  memory forensics, adversarial ML, deepfake detection
 > approach:   build it for real, test it before calling it done
 ```
@@ -45,8 +44,38 @@ $ cat interests.txt
 </div>
 
 <div align="center">
+<h2>💼 Experience</h2>
+</div>
+
+- **Cybersecurity Intern** — Pakistan Aeronautical Complex (PAC), Kamra `Jan 2026 – Mar 2026`
+- **Cybersecurity Intern** — ISPR, Inter-Services Public Relations `Jul 2025 – Aug 2025`
+- **Vice Chairperson** — Center for Cyber & Digital Forensics `Feb 2026 – Present`
+- **Vice Chairperson** — IEEE Women in Engineering Society `Oct 2025 – Present`
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
+</div>
+
+<div align="center">
+<h2>📄 Research &amp; Publications</h2>
+</div>
+
+**[FilelessHunter: A Structured Rule-Based Framework for Fileless Malware Detection](https://abbdm.com/index.php/Journal/article/view/512)**
+A memory-forensics detection framework for fileless malware that evades disk-based antivirus. *Published.*
+
+**Lightweight Real-Time Deepfake Video Detection**
+Real-time deepfake detection on resource-constrained devices via facial and temporal artifact analysis. *Accepted for publication.*
+
+**Deep Learning Based DDoS Attack Detection**
+Deep learning model for DDoS traffic detection, achieving higher accuracy than comparable models.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
+</div>
+
+<div align="center">
 <h2>🗂️ Case Files</h2>
-<sub>Eight tools, three disciplines — detection, cryptography, defensive enforcement.</sub>
+<sub>Independent security tools — a supplement to the research and experience above.</sub>
 </div>
 
 ### 🛰️ [Sentrix](https://github.com/YASHALFAROOQI/Sentrix-cloud-misconfiguration-detector)
@@ -86,15 +115,41 @@ Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not
 </div>
 
 <div align="center">
-<h2>Connect</h2>
-<a href="https://linkedin.com/in/yashal-farooqi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
+<h2>🎓 Credentials</h2>
+</div>
+
+**Certifications:** ISO/IEC 27001:2022 Information Security Associate (SkillFront) · CISA 210W-09 Attack Methodologies in IT & ICS · CISA 210W-04 Cybersecurity Within IT and ICS Domains · Short Ethical Hacking Course (NAVTTC/NSU) · Cyber Threat Intelligence 101 (ArcX) · Deloitte Cyber Job Simulation · Introduction to Cybersecurity (Cisco) · Introduction to Cyber Security, 4 Modules (Coursera)
+
+**Fellowships & Scholarships:** PEEF Scholarship Holder · pkSIG Fellowship — Pakistan School of Internet Governance, Multan (2024)
+
+**Achievements:** Winner, National Level Essay Writing Competition · CCSDF IT Battle Certificate · Hands-On Digital Forensics Workshop (Attendee & Co-Organizer)
+
+**Hackathons:** TechXhibit (2026) · International Summer Hackathon (2026) · IdeaFest, Startup Track (2025)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
+</div>
+
+<div align="center">
+<h2>🛠️ Skills</h2>
+</div>
+
+**Core Security:** Ethical Hacking · Penetration Testing · Digital Forensics · Threat Intelligence · Applied Cryptography · Intrusion Detection · Vulnerability Assessment · Malware Analysis
+
+**Security Tools:** Nmap · Metasploit · Wireshark · Burp Suite · Kali Linux · John the Ripper
+
+**Languages & Frameworks:** Python · Flask · Node.js · Volatility Framework · YARA · Scapy
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
+</div>
+
+<div align="center">
+<h2>Contact Me</h2>
 <a href="mailto:ayashal456@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
+<a href="https://github.com/YASHALFAROOQI"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C" /></a>
 </div>
 
 <br>
-
-<div align="center">
-<sub>Every tool above is tested before it's called done — nothing here claims more than what it actually does.</sub>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=100&section=footer" width="100%"/>
