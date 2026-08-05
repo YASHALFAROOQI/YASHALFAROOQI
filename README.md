@@ -34,7 +34,7 @@ $ whoami
 > The Islamia University of Bahawalpur
 
 $ cat interests.txt
-> focus:      intrusion detection, applied cryptography, digital forensics
+> focus:      intrusion detection, applied cryptography, cloud security
 > exploring:  memory forensics, adversarial ML, deepfake detection
 > approach:   build it for real, test it before calling it done
 ```
@@ -44,38 +44,8 @@ $ cat interests.txt
 </div>
 
 <div align="center">
-<h2>💼 Experience</h2>
-</div>
-
-- **Cybersecurity Intern** — Pakistan Aeronautical Complex (PAC), Kamra `Jan 2026 – Mar 2026`
-- **Cybersecurity Intern** — ISPR, Inter-Services Public Relations `Jul 2025 – Aug 2025`
-- **Vice Chairperson** — Center for Cyber & Digital Forensics `Feb 2026 – Present`
-- **Vice Chairperson** — IEEE Women in Engineering Society `Oct 2025 – Present`
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
-</div>
-
-<div align="center">
-<h2>📄 Research &amp; Publications</h2>
-</div>
-
-**[FilelessHunter: A Structured Rule-Based Framework for Fileless Malware Detection](https://abbdm.com/index.php/Journal/article/view/512)**
-A memory-forensics detection framework for fileless malware that evades disk-based antivirus. *Published.*
-
-**Lightweight Real-Time Deepfake Video Detection**
-Real-time deepfake detection on resource-constrained devices via facial and temporal artifact analysis. *Accepted for publication.*
-
-**Deep Learning Based DDoS Attack Detection**
-Deep learning model for DDoS traffic detection, achieving higher accuracy than comparable models.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
-</div>
-
-<div align="center">
 <h2>🗂️ Case Files</h2>
-<sub>Independent security tools — a supplement to the research and experience above.</sub>
+<sub>Eight tools, three disciplines — detection, cryptography, defensive enforcement.</sub>
 </div>
 
 ### 🛰️ [Sentrix](https://github.com/YASHALFAROOQI/Sentrix-cloud-misconfiguration-detector)
@@ -109,36 +79,6 @@ Real entropy calculation, common-password check, and offline crack-time estimate
 ### 🏛️ [Caesar Cipher](https://github.com/YASHALFAROOQI/ceaser-cipher-encryption-decryption)
 Encode, decode, brute-force all 25 shifts — a classical teaching baseline, not real confidentiality.
 `python` `flask`
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
-</div>
-
-<div align="center">
-<h2>🎓 Credentials</h2>
-</div>
-
-**Certifications:** ISO/IEC 27001:2022 Information Security Associate (SkillFront) · CISA 210W-09 Attack Methodologies in IT & ICS · CISA 210W-04 Cybersecurity Within IT and ICS Domains · Short Ethical Hacking Course (NAVTTC/NSU) · Cyber Threat Intelligence 101 (ArcX) · Deloitte Cyber Job Simulation · Introduction to Cybersecurity (Cisco) · Introduction to Cyber Security, 4 Modules (Coursera)
-
-**Fellowships & Scholarships:** PEEF Scholarship Holder · pkSIG Fellowship — Pakistan School of Internet Governance, Multan (2024)
-
-**Achievements:** Winner, National Level Essay Writing Competition · CCSDF IT Battle Certificate · Hands-On Digital Forensics Workshop (Attendee & Co-Organizer)
-
-**Hackathons:** TechXhibit (2026) · International Summer Hackathon (2026) · IdeaFest, Startup Track (2025)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
-</div>
-
-<div align="center">
-<h2>🛠️ Skills</h2>
-</div>
-
-**Core Security:** Ethical Hacking · Penetration Testing · Digital Forensics · Threat Intelligence · Applied Cryptography · Intrusion Detection · Vulnerability Assessment · Malware Analysis
-
-**Security Tools:** Nmap · Metasploit · Wireshark · Burp Suite · Kali Linux · John the Ripper
-
-**Languages & Frameworks:** Python · Flask · Node.js · Volatility Framework · YARA · Scapy
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:000000&height=3&width=100%"/>
